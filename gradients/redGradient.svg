@@ -5,5 +5,5 @@
 <stop offset="1" stop-color="white"/>
 </linearGradient>
 </defs>
-<rect width='300' height='300' fill='url(#g1)'/>
+<rect width='300px' height='300px' fill='url(#g1)'/>
 </svg>
